@@ -15,6 +15,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
 |  |
@@ -43,13 +44,16 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
