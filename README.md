@@ -53,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -63,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/DharaniDharan-06/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
