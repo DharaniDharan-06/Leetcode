@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/DharaniDharan-06/Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharaniDharan-06/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/DharaniDharan-06/Leetcode/tree/master/0948-sort-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/DharaniDharan-06/Leetcode/tree/master/0283-move-zeroes) |
 | [2442-number-of-arithmetic-triplets](https://github.com/DharaniDharan-06/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Enumeration
 |  |
