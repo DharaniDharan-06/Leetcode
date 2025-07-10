@@ -12,6 +12,6 @@ class Solution {
         for(int i=0;i<n;i++){
             nums[i] = arr[i];
         }
-        System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.toString(nums));
     }
 }
