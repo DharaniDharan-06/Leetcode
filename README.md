@@ -62,6 +62,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
