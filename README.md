@@ -60,6 +60,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DharaniDharan-06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -72,6 +73,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DharaniDharan-06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/DharaniDharan-06/Leetcode/tree/master/0283-move-zeroes) |
 | [2442-number-of-arithmetic-triplets](https://github.com/DharaniDharan-06/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -108,6 +110,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DharaniDharan-06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1013-fibonacci-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
