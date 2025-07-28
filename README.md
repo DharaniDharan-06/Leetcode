@@ -15,6 +15,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/DharaniDharan-06/Leetcode/tree/master/0089-gray-code) |
 | [0191-number-of-1-bits](https://github.com/DharaniDharan-06/Leetcode/tree/master/0191-number-of-1-bits) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DharaniDharan-06/Leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/DharaniDharan-06/Leetcode/tree/master/0089-gray-code) |
 | [0263-ugly-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharaniDharan-06/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DharaniDharan-06/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/DharaniDharan-06/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
