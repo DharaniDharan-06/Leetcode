@@ -8,6 +8,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DharaniDharan-06/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/DharaniDharan-06/Leetcode/tree/master/0948-sort-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2442-number-of-arithmetic-triplets](https://github.com/DharaniDharan-06/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DharaniDharan-06/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -41,6 +42,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/DharaniDharan-06/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
