@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/DharaniDharan-06/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/DharaniDharan-06/Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharaniDharan-06/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/DharaniDharan-06/Leetcode/tree/master/0948-sort-an-array) |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/DharaniDharan-06/Leetcode/tree/master/0089-gray-code) |
+## Binary Search
+|  |
+| ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/DharaniDharan-06/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
