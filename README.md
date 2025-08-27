@@ -45,6 +45,7 @@
 | [1013-fibonacci-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1965-sum-of-digits-in-base-k](https://github.com/DharaniDharan-06/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2630-alternating-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2630-alternating-digit-sum) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
