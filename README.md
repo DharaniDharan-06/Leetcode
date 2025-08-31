@@ -14,6 +14,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DharaniDharan-06/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/DharaniDharan-06/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/DharaniDharan-06/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
 |  |
@@ -50,6 +51,7 @@
 | [1965-sum-of-digits-in-base-k](https://github.com/DharaniDharan-06/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2630-alternating-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/DharaniDharan-06/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
 |  |
