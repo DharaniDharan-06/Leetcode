@@ -51,6 +51,7 @@
 | [1965-sum-of-digits-in-base-k](https://github.com/DharaniDharan-06/Leetcode/tree/master/1965-sum-of-digits-in-base-k) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2630-alternating-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2630-alternating-digit-sum) |
+| [2812-find-the-maximum-achievable-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/DharaniDharan-06/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Simulation
