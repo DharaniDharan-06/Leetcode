@@ -54,6 +54,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/DharaniDharan-06/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3830-find-closest-person](https://github.com/DharaniDharan-06/Leetcode/tree/master/3830-find-closest-person) |
 ## Simulation
 |  |
 | ------- |
