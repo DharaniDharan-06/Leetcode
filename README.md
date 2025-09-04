@@ -59,6 +59,7 @@
 | ------- |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3447-clear-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/DharaniDharan-06/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3447-clear-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DharaniDharan-06/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
