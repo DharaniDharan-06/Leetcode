@@ -32,6 +32,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DharaniDharan-06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
@@ -76,12 +77,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DharaniDharan-06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/DharaniDharan-06/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/DharaniDharan-06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DharaniDharan-06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
