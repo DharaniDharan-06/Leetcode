@@ -44,6 +44,7 @@
 | [0070-climbing-stairs](https://github.com/DharaniDharan-06/Leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/DharaniDharan-06/Leetcode/tree/master/0089-gray-code) |
 | [0263-ugly-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/0263-ugly-number) |
+| [0415-add-strings](https://github.com/DharaniDharan-06/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharaniDharan-06/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/1013-fibonacci-number) |
@@ -60,6 +61,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/DharaniDharan-06/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/DharaniDharan-06/Leetcode/tree/master/0682-baseball-game) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -83,6 +85,7 @@
 | [0005-longest-palindromic-substring](https://github.com/DharaniDharan-06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/DharaniDharan-06/Leetcode/tree/master/0415-add-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/DharaniDharan-06/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
