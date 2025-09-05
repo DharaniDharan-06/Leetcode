@@ -7,6 +7,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DharaniDharan-06/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/DharaniDharan-06/Leetcode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharaniDharan-06/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/DharaniDharan-06/Leetcode/tree/master/0682-baseball-game) |
 | [0948-sort-an-array](https://github.com/DharaniDharan-06/Leetcode/tree/master/0948-sort-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -58,6 +59,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/DharaniDharan-06/Leetcode/tree/master/0682-baseball-game) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3447-clear-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/3447-clear-digits) |
@@ -156,5 +158,6 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/DharaniDharan-06/Leetcode/tree/master/0682-baseball-game) |
 | [3447-clear-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
