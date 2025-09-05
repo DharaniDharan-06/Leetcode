@@ -11,6 +11,7 @@
 | [0948-sort-an-array](https://github.com/DharaniDharan-06/Leetcode/tree/master/0948-sort-an-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/DharaniDharan-06/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/DharaniDharan-06/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DharaniDharan-06/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/DharaniDharan-06/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/DharaniDharan-06/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/DharaniDharan-06/Leetcode/tree/master/0948-sort-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/DharaniDharan-06/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DharaniDharan-06/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
