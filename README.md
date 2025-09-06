@@ -12,6 +12,7 @@
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/DharaniDharan-06/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2232-adding-spaces-to-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/DharaniDharan-06/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DharaniDharan-06/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/DharaniDharan-06/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -65,6 +66,7 @@
 | [0415-add-strings](https://github.com/DharaniDharan-06/Leetcode/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/DharaniDharan-06/Leetcode/tree/master/0682-baseball-game) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/DharaniDharan-06/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2232-adding-spaces-to-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/DharaniDharan-06/Leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3447-clear-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/3447-clear-digits) |
 ## Sorting
@@ -91,6 +93,7 @@
 | [0415-add-strings](https://github.com/DharaniDharan-06/Leetcode/tree/master/0415-add-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/DharaniDharan-06/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2232-adding-spaces-to-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/DharaniDharan-06/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3447-clear-digits](https://github.com/DharaniDharan-06/Leetcode/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/DharaniDharan-06/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -105,6 +108,7 @@
 | [0005-longest-palindromic-substring](https://github.com/DharaniDharan-06/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/DharaniDharan-06/Leetcode/tree/master/0283-move-zeroes) |
+| [2232-adding-spaces-to-a-string](https://github.com/DharaniDharan-06/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/DharaniDharan-06/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/DharaniDharan-06/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
